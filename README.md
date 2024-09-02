@@ -13,28 +13,56 @@ This project involves the analysis of twitch chat and twitch viewership data fro
 7. [Contact Information](#contact-information)
 
 ## Data Description
-The dataset was sourced from Kaggle and includes sales data from 2018 to 2023. It contains 1 million records with columns such as Date, Product ID, Sales Amount, etc. The data was cleaned to remove duplicates and missing values.
+The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to 2024-08-31. It contains more than 300k records with columns such as Date, User, Message, and StreamID. The data was cleaned to remove duplicates and missing values. If stream crashed and 2 separated vod was, it is merged together.
 
 ## Methodology
-The analysis was performed using Python, with Pandas for data manipulation, Matplotlib for visualization, and Scikit-learn for predictive modeling.
+The analysis was performed using Python, with Pandas for data manipulation, Matplotlib and Seaborn for visualization, WordCloud and ImageColorGenerator for creating cool imagies, and Scikit-learn for predictive modeling.
 
 ## Results
-The analysis revealed a significant increase in sales during holiday seasons, with product X showing the highest profitability. Predictive models suggest a 15% growth in sales next quarter.
+//TODO
 
 ## Conclusion
-The project provided actionable insights into sales trends, allowing for more informed decision-making regarding inventory management and marketing strategies. Future work could involve exploring customer segmentation to tailor marketing efforts more effectively.
+//TODO
 
 ## Usage
-To replicate the analysis, clone the repository, install the dependencies listed in `requirements.txt`, and run the `analysis.py` script.
+You can use it with this:
+
+```python
+# Read the list of filenames from the configuration file
+with open('file_list.txt', 'r', encoding='utf-8') as config_file:
+    file_names = config_file.read().splitlines()
+
+# Regex pattern to match the data format
+pattern = r'\[(.*?)\] (.*?): (.*)'
+
+# Initialize an empty list to store parsed data
+datalist = []
+stream_count = 0
+
+# Iterate over each specified file
+for file in file_names:
+    full_path = "data\\" + file
+    with open(full_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+        for line in lines:
+            match = re.match(pattern, line)
+            if match:
+                date, user, message = match.groups()
+                datalist.append([date, user, message, stream_count])
+    stream_count += 1
+
+# Create a DataFrame from the parsed data
+data = pd.DataFrame(datalist, columns=["date", "user", "message", "stream"])
 
 ## References
-- Sales Data from Twitch: [Link to Dataset](https://www.twitch.tv/dorozea)
+- Twitch Data from Twitch: [Link to Dataset](https://www.twitch.tv/dorozea)
 - Pandas Documentation: [Link](https://pandas.pydata.org/)
+- 
 
 ## Contact Information
 Author: Bálint Kardos  
 Email: kard.balint@gmail.com
-LinkedIn: [Bálint Kardos]()  
+LinkedIn: [link](https://www.linkedin.com/in/b%C3%A1lint-kardos/)  
 
 ## License
-This project is licensed under the MIT License.
+This project has none currently.
