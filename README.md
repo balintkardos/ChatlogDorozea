@@ -52,9 +52,6 @@ for file in file_names:
     stream_count += 1
 ```
 
-# Create a DataFrame from the parsed data
-data = pd.DataFrame(datalist, columns=["date", "user", "message", "stream"])
-
 ## References
 - Twitch Data from Twitch: [Link to Dataset](https://www.twitch.tv/dorozea)
 - Pandas Documentation: [Link](https://pandas.pydata.org/)
