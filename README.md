@@ -50,6 +50,7 @@ for file in file_names:
                 date, user, message = match.groups()
                 datalist.append([date, user, message, stream_count])
     stream_count += 1
+```
 
 # Create a DataFrame from the parsed data
 data = pd.DataFrame(datalist, columns=["date", "user", "message", "stream"])
