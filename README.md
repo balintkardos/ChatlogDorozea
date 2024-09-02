@@ -1,7 +1,7 @@
-# Sales Data Analysis Project
+# Dorozea's Chat Data Analysis Project
 
 ## Introduction
-This project involves the analysis of sales data to uncover insights about sales trends, customer behavior, and profitability. The project was undertaken to improve decision-making processes at XYZ Corp.
+This project involves the analysis of twitch chat and twitch viewership data from [Dorozea](https://www.twitch.tv/dorozea)'s chat. The project was undertaken to improve my data analysist skills and to undersand more about the comunity I love and I'm a part of.
 
 ## Table of Contents
 1. [Data Description](#data-description)
