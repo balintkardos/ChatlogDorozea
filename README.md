@@ -25,31 +25,11 @@ The analysis was performed using Python, with Pandas for data manipulation, Matp
 //TODO
 
 ## Usage
-You can use it with this:
+You you need to read all the data from /data where all stream has the own txt file with [m-d-yy].txt format all list is the file_list.txt
 
 ```python
 # Read the list of filenames from the configuration file
-with open('file_list.txt', 'r', encoding='utf-8') as config_file:
-    file_names = config_file.read().splitlines()
-
-# Regex pattern to match the data format
-pattern = r'\[(.*?)\] (.*?): (.*)'
-
-# Initialize an empty list to store parsed data
-datalist = []
-stream_count = 0
-
-# Iterate over each specified file
-for file in file_names:
-    full_path = "data\\" + file
-    with open(full_path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-        for line in lines:
-            match = re.match(pattern, line)
-            if match:
-                date, user, message = match.groups()
-                datalist.append([date, user, message, stream_count])
-    stream_count += 1
+'file_list.txt'
 ```
 
 ## References
