@@ -19,7 +19,9 @@ The dataset was sourced from public Twitch and includes chat messges date and th
 The analysis was performed using Python, with Pandas for data manipulation, Matplotlib and Seaborn for visualization, WordCloud and ImageColorGenerator for creating cool imagies, and Scikit-learn for predictive modeling.
 
 ## Results
-//TODO
+Word Cloud:
+
+<img src="https://kappa.lol/ptfxA" alt="Alt text" width="300"/>
 
 ## Conclusion
 //TODO
