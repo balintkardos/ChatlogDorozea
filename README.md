@@ -1,6 +1,6 @@
 # Dorozea's Chat Data Analysis Project
 <a href="https://www.twitch.tv/dorozea">
-    <img src="https://kappa.lol/uonYy" alt="Alt text" width="200"/>
+    <img src="https://kappa.lol/kagKh" alt="Alt text" width="200"/>
 </a>
 
 ## Introduction
