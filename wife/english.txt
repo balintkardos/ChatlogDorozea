@@ -1,13 +1,28 @@
 date	user	message	stream
-2024-05-02 17:10:09 UTC	itscagle	english	1
-2024-05-17 17:38:28 UTC	IvanOnMyOwn	english	14
-2024-07-13 17:36:58 UTC	real_jenx	english	62
-2024-07-14 15:02:20 UTC	eldin7000	english	63
-2024-08-03 17:36:53 UTC	stanny781	english	81
-2024-08-24 13:28:27 UTC	midoumeister	english	93
-2024-08-25 12:33:11 UTC	TeraJayazBaap	ENGLISH	94
-2024-09-06 13:51:30 UTC	IHate0reos	english	105
-2024-09-06 13:51:36 UTC	1SKELTON	english	105
-2024-09-08 15:01:45 UTC	flow12clan	ENGLISH	107
-2024-12-16 16:30:06 UTC	twitch_jkey	ENGLISH	188
-2025-01-05 13:11:09 UTC	unkmown111	English	206
+2024-07-16 16:05:46 UTC	barbarous_1	how did u learn english	65
+2024-09-28 16:36:49 UTC	Pyczeg	Doro, where and when did you learn english?	123
+2024-10-05 12:51:49 UTC	idolaizer	how did you learn english	128
+2024-10-27 13:46:29 UTC	yigitler16	doro how did u learn english	147
+2024-10-27 15:30:50 UTC	nikushakark	how did you learn english ?	147
+2024-11-09 12:57:35 UTC	weizlord	How did you learn English at this level?	158
+2024-11-10 13:51:00 UTC	nikushakark	how did u learn english ?	159
+2024-11-10 13:52:20 UTC	nikushakark	how did u learn english ?	159
+2024-11-10 14:17:41 UTC	nikushakark	how did u learn english ?	159
+2024-11-18 13:29:45 UTC	f0lly	You are originally from Sewden, but where and how did you learn English? It is very good	166
+2024-11-18 13:31:20 UTC	f0lly	You are originally from Sewden, but where and how did you learn English? @dorozea	166
+2024-11-18 16:59:55 UTC	12zitwelve	how did you learn english	166
+2024-12-16 15:06:35 UTC	khrasl	when u learn eng?	188
+2024-12-23 14:18:49 UTC	AlexPrzF	you learn english in Sweden? You speak good english	195
+2024-12-23 14:18:57 UTC	Typhu25	average_pollom_enjoyer: how many robux for gyatt? Raging Wolf HelmAlexPrzF: you learn english in Sweden? You speak good english Arcane Season 2 Premierenoenemies192: oh hi, I saw you in reels, and find on twitch first time	195
+2024-12-28 14:14:47 UTC	Senyaaa__	HOW DO YOU LEARN ENGLISH LANGUAGE>	199
+2025-01-03 14:12:25 UTC	rebbel576	you learn english since first class cause its an world language	204
+2025-01-03 14:51:22 UTC	vtoroeprishestvie2	Did you learn English in school? Or self-taught? It is interesting to know how English is taught in other countries. Because in Russian schools or colleges it is very bad	204
+2025-01-05 13:49:54 UTC	Baggy2312	@jshhfhdjsjdsow dont u learn english in school?	206
+2025-01-06 16:00:34 UTC	PabloJ816	whered you learn english?	207
+2025-01-06 18:10:52 UTC	kirill_ugrumov	how did you learn English so well?	207
+2025-01-06 18:14:35 UTC	kirill_ugrumov	how did you learn English so well?	207
+2025-01-06 19:15:58 UTC	ganghastle	did you learn english from birth or later?	207
+2025-01-10 14:29:55 UTC	marcelwallace_	how did you learn english being a russian	210
+2025-01-10 17:19:42 UTC	xx_v1king_xx	how did u learn eng?	210
+2025-01-10 17:21:11 UTC	7Erikk	hello , how did u learn english ?	210
+2025-01-10 17:21:45 UTC	shogalul	where did you learn english?	210
