@@ -16,12 +16,17 @@ This project involves the analysis of twitch chat and twitch viewership data fro
 7. [Contact Information](#contact-information)
 
 ## Data Description
-The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 300k records with columns such as Date, User, Message, and StreamID from more than 110 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
+The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 950k records with columns such as Date, User, Message, and StreamID from more than 200 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
 
 ## Known limitations
 - It has __no__ chat log data when the steam was __offline__. It is also true when the stream crashed and it was offline for only few minutes.
+- __Offline__ subscriptions and subscriptions what is __not shared__ in chat are not included. That is __~15%__ of the subbsriptions.*
 - If a user has been __banned__ or their message has been __deleted__ in the live chat, they are not included.
+- If a user has been __banned__ or their message has been __deleted__ in the live chat, their previous ~15 minutes of messages in the stream are __not included__.
 - Can't handel __user name change__. If a user changed his user name it will be appear as a brand new user.
+
+*= _In January 2025, the partner plus point was around 505, but the chat data only shows 434, which is ~85%, so there could be a 15% difference._ 
+
 
 ## Methodology
 The analysis was performed using Python, with Pandas for data manipulation, Matplotlib and Seaborn for visualization, WordCloud and ImageColorGenerator for creating cool imagies, and Scikit-learn for predictive modeling.
@@ -62,7 +67,7 @@ From data 2024 09 09:
     - Expected to reach 500 average viewers on: 2025-08-22 
     - Expected to reach 300 active tier 1 & prime subs on: 2025-06-20 
     - Expected to reach 5000000 watch hours on: 2030-12-02
-- [worldCloudWithImage](worldCloudWithImage.ipynb):
+- [worldCloudWithImage](wordCloud\world_cloud.ipynb):
 It creates a word cloud from the most frequently used chat words, which he places on dorozea's logo.
 <img src="https://kappa.lol/ptfxA" alt="Alt text" width="300"/>
 
@@ -80,8 +85,8 @@ You you need to read all the data from /data where all stream has the own txt fi
 ## Contact Information
 Author: Bálint Kardos  
 Email: kard.balint@gmail.com \
-LinkedIn: [Bálint Kardos](https://www.linkedin.com/in/b%C3%A1lint-kardos/)  
-Twitch: [balintboss](https://www.twitch.tv/balintboss)
+LinkedIn: [link](https://www.linkedin.com/in/b%C3%A1lint-kardos/)  
+Twitch: [/balintboss](https://www.twitch.tv/balintboss)
 
 ## License
 This project has none currently.
@@ -89,5 +94,5 @@ This project has none currently.
 
 ```python
 # this is just a place horder
-'file_list.txt'
+'This is the end of the read me :)'
 ```
