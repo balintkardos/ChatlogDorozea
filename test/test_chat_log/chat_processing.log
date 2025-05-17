@@ -1,0 +1,554 @@
+2025-05-17 19:59:03,140 - INFO - Starting chat log processing
+2025-05-17 19:59:03,141 - INFO - Found 319 files to process
+2025-05-17 19:59:03,146 - INFO - Successfully processed file: [5-1-24].txt
+2025-05-17 19:59:03,153 - INFO - Successfully processed file: [5-2-24].txt
+2025-05-17 19:59:03,161 - INFO - Successfully processed file: [5-3-24].txt
+2025-05-17 19:59:03,166 - INFO - Successfully processed file: [5-4-24].txt
+2025-05-17 19:59:03,172 - INFO - Successfully processed file: [5-5-24].txt
+2025-05-17 19:59:03,183 - INFO - Successfully processed file: [5-6-24].txt
+2025-05-17 19:59:03,187 - INFO - Successfully processed file: [5-7-24].txt
+2025-05-17 19:59:03,195 - INFO - Successfully processed file: [5-9-24].txt
+2025-05-17 19:59:03,202 - INFO - Successfully processed file: [5-10-24].txt
+2025-05-17 19:59:03,247 - INFO - Successfully processed file: [5-11-24].txt
+2025-05-17 19:59:03,249 - INFO - Successfully processed file: [5-12-24].txt
+2025-05-17 19:59:03,256 - INFO - Successfully processed file: [5-13-24].txt
+2025-05-17 19:59:03,262 - INFO - Successfully processed file: [5-15-24].txt
+2025-05-17 19:59:03,269 - INFO - Successfully processed file: [5-16-24].txt
+2025-05-17 19:59:03,274 - INFO - Successfully processed file: [5-17-24].txt
+2025-05-17 19:59:03,281 - INFO - Successfully processed file: [5-18-24].txt
+2025-05-17 19:59:03,285 - INFO - Successfully processed file: [5-19-24].txt
+2025-05-17 19:59:03,292 - INFO - Successfully processed file: [5-20-24].txt
+2025-05-17 19:59:03,298 - INFO - Successfully processed file: [5-21-24].txt
+2025-05-17 19:59:03,303 - INFO - Successfully processed file: [5-22-24].txt
+2025-05-17 19:59:03,314 - INFO - Successfully processed file: [5-23-24]-fix.txt
+2025-05-17 19:59:03,320 - INFO - Successfully processed file: [5-24-24].txt
+2025-05-17 19:59:03,325 - INFO - Successfully processed file: [5-25-24].txt
+2025-05-17 19:59:03,329 - INFO - Successfully processed file: [5-26-24].txt
+2025-05-17 19:59:03,347 - INFO - Successfully processed file: [5-27-24].txt
+2025-05-17 19:59:03,357 - INFO - Successfully processed file: [5-28-24].txt
+2025-05-17 19:59:03,370 - INFO - Successfully processed file: [5-29-24].txt
+2025-05-17 19:59:03,379 - INFO - Successfully processed file: [5-30-24].txt
+2025-05-17 19:59:03,385 - INFO - Successfully processed file: [5-31-24].txt
+2025-05-17 19:59:03,392 - INFO - Successfully processed file: [6-2-24].txt
+2025-05-17 19:59:03,396 - INFO - Successfully processed file: [6-2-24]_2.txt
+2025-05-17 19:59:03,415 - INFO - Successfully processed file: [6-3-24].txt
+2025-05-17 19:59:03,419 - INFO - Successfully processed file: [6-4-24].txt
+2025-05-17 19:59:03,430 - INFO - Successfully processed file: [6-5-24].txt
+2025-05-17 19:59:03,440 - INFO - Successfully processed file: [6-6-24].txt
+2025-05-17 19:59:03,445 - INFO - Successfully processed file: [6-7-24].txt
+2025-05-17 19:59:03,458 - INFO - Successfully processed file: [6-9-24].txt
+2025-05-17 19:59:03,463 - INFO - Successfully processed file: [6-10-24].txt
+2025-05-17 19:59:03,473 - INFO - Successfully processed file: [6-11-24].txt
+2025-05-17 19:59:03,481 - INFO - Successfully processed file: [6-12-24].txt
+2025-05-17 19:59:03,490 - INFO - Successfully processed file: [6-13-24].txt
+2025-05-17 19:59:03,551 - WARNING - Line doesn't match pattern: [2024-06-14 15:52:16 UTC] 1206paul_:...
+2025-05-17 19:59:03,556 - INFO - Successfully processed file: [6-14-24].txt
+2025-05-17 19:59:03,563 - INFO - Successfully processed file: [6-15-24].txt
+2025-05-17 19:59:03,577 - INFO - Successfully processed file: [6-16-24].txt
+2025-05-17 19:59:03,590 - INFO - Successfully processed file: [6-17-24].txt
+2025-05-17 19:59:03,596 - INFO - Successfully processed file: [6-18-24].txt
+2025-05-17 19:59:03,601 - INFO - Successfully processed file: [6-20-24].txt
+2025-05-17 19:59:03,607 - INFO - Successfully processed file: [6-22-24].txt
+2025-05-17 19:59:03,612 - INFO - Successfully processed file: [6-23-24].txt
+2025-05-17 19:59:03,622 - INFO - Successfully processed file: [6-24-24].txt
+2025-05-17 19:59:03,628 - INFO - Successfully processed file: [6-25-24].txt
+2025-05-17 19:59:03,630 - WARNING - Line doesn't match pattern: ...
+2025-05-17 19:59:03,630 - INFO - Successfully processed file: [6-29-24].txt
+2025-05-17 19:59:03,635 - INFO - Successfully processed file: [7-1-24].txt
+2025-05-17 19:59:03,639 - WARNING - Line doesn't match pattern: [2024-07-02 12:42:48 UTC] sharkzilla___:...
+2025-05-17 19:59:03,644 - INFO - Successfully processed file: [7-2-24].txt
+2025-05-17 19:59:03,649 - INFO - Successfully processed file: [7-3-24].txt
+2025-05-17 19:59:03,660 - INFO - Successfully processed file: [7-4-24].txt
+2025-05-17 19:59:03,665 - INFO - Successfully processed file: [7-6-24].txt
+2025-05-17 19:59:03,672 - INFO - Successfully processed file: [7-7-24].txt
+2025-05-17 19:59:03,677 - INFO - Successfully processed file: [7-8-24].txt
+2025-05-17 19:59:03,683 - INFO - Successfully processed file: [7-9-24].txt
+2025-05-17 19:59:03,688 - INFO - Successfully processed file: [7-11-24].txt
+2025-05-17 19:59:03,697 - INFO - Successfully processed file: [7-12-24].txt
+2025-05-17 19:59:03,706 - INFO - Successfully processed file: [7-13-24].txt
+2025-05-17 19:59:03,714 - INFO - Successfully processed file: [7-14-24].txt
+2025-05-17 19:59:03,720 - INFO - Successfully processed file: [7-15-24].txt
+2025-05-17 19:59:03,727 - INFO - Successfully processed file: [7-16-24].txt
+2025-05-17 19:59:03,733 - INFO - Successfully processed file: [7-17-24].txt
+2025-05-17 19:59:03,740 - INFO - Successfully processed file: [7-19-24].txt
+2025-05-17 19:59:03,747 - INFO - Successfully processed file: [7-20-24].txt
+2025-05-17 19:59:03,753 - INFO - Successfully processed file: [7-21-24].txt
+2025-05-17 19:59:03,759 - INFO - Successfully processed file: [7-22-24].txt
+2025-05-17 19:59:03,769 - INFO - Successfully processed file: [7-23-24].txt
+2025-05-17 19:59:03,777 - INFO - Successfully processed file: [7-24-24].txt
+2025-05-17 19:59:03,780 - WARNING - Line doesn't match pattern: [2024-07-25 13:23:58 UTC] jeremiahskibidi21041:...
+2025-05-17 19:59:03,786 - INFO - Successfully processed file: [7-25-24].txt
+2025-05-17 19:59:03,855 - INFO - Successfully processed file: [7-26-24].txt
+2025-05-17 19:59:03,860 - INFO - Successfully processed file: [7-27-24].txt
+2025-05-17 19:59:03,872 - INFO - Successfully processed file: [7-29-24].txt
+2025-05-17 19:59:03,879 - INFO - Successfully processed file: [7-30-24].txt
+2025-05-17 19:59:03,890 - INFO - Successfully processed file: [7-31-24].txt
+2025-05-17 19:59:03,896 - INFO - Successfully processed file: [8-1-24].txt
+2025-05-17 19:59:03,905 - INFO - Successfully processed file: [8-2-24].txt
+2025-05-17 19:59:03,916 - INFO - Successfully processed file: [8-3-24].txt
+2025-05-17 19:59:03,924 - INFO - Successfully processed file: [8-4-24].txt
+2025-05-17 19:59:03,929 - INFO - Successfully processed file: [8-5-24].txt
+2025-05-17 19:59:03,937 - INFO - Successfully processed file: [8-6-24].txt
+2025-05-17 19:59:03,947 - INFO - Successfully processed file: [8-7-24].txt
+2025-05-17 19:59:03,961 - INFO - Successfully processed file: [8-8-24].txt
+2025-05-17 19:59:03,968 - INFO - Successfully processed file: [8-9-24].txt
+2025-05-17 19:59:03,980 - INFO - Successfully processed file: [8-19-24].txt
+2025-05-17 19:59:03,989 - INFO - Successfully processed file: [8-20-24].txt
+2025-05-17 19:59:04,001 - INFO - Successfully processed file: [8-21-24].txt
+2025-05-17 19:59:04,011 - INFO - Successfully processed file: [8-22-24].txt
+2025-05-17 19:59:04,017 - INFO - Successfully processed file: [8-23-24].txt
+2025-05-17 19:59:04,029 - WARNING - Line doesn't match pattern: [2024-08-24 16:30:23 UTC] \u30d9\u30fc\u30bf:...
+2025-05-17 19:59:04,030 - INFO - Successfully processed file: [8-24-24].txt
+2025-05-17 19:59:04,041 - INFO - Successfully processed file: [8-25-24].txt
+2025-05-17 19:59:04,052 - INFO - Successfully processed file: [8-26-24].txt
+2025-05-17 19:59:04,060 - INFO - Successfully processed file: [8-27-24].txt
+2025-05-17 19:59:04,065 - INFO - Successfully processed file: [8-28-24].txt
+2025-05-17 19:59:04,072 - INFO - Successfully processed file: [8-30-24].txt
+2025-05-17 19:59:04,080 - INFO - Successfully processed file: [8-31-24].txt
+2025-05-17 19:59:04,162 - INFO - Successfully processed file: [9-1-24].txt
+2025-05-17 19:59:04,171 - INFO - Successfully processed file: [9-2-24].txt
+2025-05-17 19:59:04,174 - INFO - Successfully processed file: [9-3-24].txt
+2025-05-17 19:59:04,184 - WARNING - Line doesn't match pattern: ...
+2025-05-17 19:59:04,184 - INFO - Successfully processed file: [9-4-24].txt
+2025-05-17 19:59:04,192 - WARNING - Line doesn't match pattern: ...
+2025-05-17 19:59:04,193 - INFO - Successfully processed file: [9-5-24].txt
+2025-05-17 19:59:04,206 - INFO - Successfully processed file: [9-6-24].txt
+2025-05-17 19:59:04,211 - INFO - Successfully processed file: [9-7-24].txt
+2025-05-17 19:59:04,221 - INFO - Successfully processed file: [9-8-24].txt
+2025-05-17 19:59:04,229 - INFO - Successfully processed file: [9-9-24].txt
+2025-05-17 19:59:04,241 - INFO - Successfully processed file: [9-10-24].txt
+2025-05-17 19:59:04,251 - INFO - Successfully processed file: [9-11-24].txt
+2025-05-17 19:59:04,259 - WARNING - Line doesn't match pattern: ...
+2025-05-17 19:59:04,259 - INFO - Successfully processed file: [9-12-24].txt
+2025-05-17 19:59:04,294 - WARNING - Line doesn't match pattern: ...
+2025-05-17 19:59:04,294 - INFO - Successfully processed file: [9-13-24].txt
+2025-05-17 19:59:04,304 - INFO - Successfully processed file: [9-16-24].txt
+2025-05-17 19:59:04,315 - INFO - Successfully processed file: [9-17-24].txt
+2025-05-17 19:59:04,325 - INFO - Successfully processed file: [9-19-24].txt
+2025-05-17 19:59:04,341 - INFO - Successfully processed file: [9-20-24].txt
+2025-05-17 19:59:04,353 - INFO - Successfully processed file: [9-21-24].txt
+2025-05-17 19:59:04,364 - INFO - Successfully processed file: [9-22-24].txt
+2025-05-17 19:59:04,372 - INFO - Successfully processed file: [9-23-24].txt
+2025-05-17 19:59:04,379 - INFO - Successfully processed file: [9-24-24].txt
+2025-05-17 19:59:04,385 - INFO - Successfully processed file: [9-25-24].txt
+2025-05-17 19:59:04,392 - WARNING - Line doesn't match pattern: [2024-09-26 15:52:19 UTC] \u30d9\u30fc\u30bf:...
+2025-05-17 19:59:04,394 - INFO - Successfully processed file: [9-26-24].txt
+2025-05-17 19:59:04,404 - INFO - Successfully processed file: [9-28-24].txt
+2025-05-17 19:59:04,410 - INFO - Successfully processed file: [9-29-24].txt
+2025-05-17 19:59:04,422 - INFO - Successfully processed file: [9-30-24].txt
+2025-05-17 19:59:04,430 - INFO - Successfully processed file: [10-3-24].txt
+2025-05-17 19:59:04,521 - INFO - Successfully processed file: [10-4-24].txt
+2025-05-17 19:59:04,528 - INFO - Successfully processed file: [10-5-24].txt
+2025-05-17 19:59:04,538 - INFO - Successfully processed file: [10-6-24].txt
+2025-05-17 19:59:04,546 - INFO - Successfully processed file: [10-7-24].txt
+2025-05-17 19:59:04,554 - INFO - Successfully processed file: [10-8-24].txt
+2025-05-17 19:59:04,562 - INFO - Successfully processed file: [10-9-24].txt
+2025-05-17 19:59:04,572 - INFO - Successfully processed file: [10-10-24].txt
+2025-05-17 19:59:04,583 - INFO - Successfully processed file: [10-12-24].txt
+2025-05-17 19:59:04,595 - INFO - Successfully processed file: [10-13-24].txt
+2025-05-17 19:59:04,610 - INFO - Successfully processed file: [10-14-24].txt
+2025-05-17 19:59:04,618 - INFO - Successfully processed file: [10-15-24].txt
+2025-05-17 19:59:04,626 - INFO - Successfully processed file: [10-16-24].txt
+2025-05-17 19:59:04,635 - INFO - Successfully processed file: [10-17-24].txt
+2025-05-17 19:59:04,646 - INFO - Successfully processed file: [10-19-24].txt
+2025-05-17 19:59:04,654 - INFO - Successfully processed file: [10-20-24].txt
+2025-05-17 19:59:04,664 - INFO - Successfully processed file: [10-21-24].txt
+2025-05-17 19:59:04,675 - INFO - Successfully processed file: [10-22-24].txt
+2025-05-17 19:59:04,679 - INFO - Successfully processed file: [10-23-24].txt
+2025-05-17 19:59:04,688 - INFO - Successfully processed file: [10-24-24].txt
+2025-05-17 19:59:04,700 - INFO - Successfully processed file: [10-26-24].txt
+2025-05-17 19:59:04,708 - INFO - Successfully processed file: [10-27-24].txt
+2025-05-17 19:59:04,722 - INFO - Successfully processed file: [10-28-24].txt
+2025-05-17 19:59:04,739 - INFO - Successfully processed file: [10-29-24].txt
+2025-05-17 19:59:04,752 - INFO - Successfully processed file: [10-30-24].txt
+2025-05-17 19:59:04,767 - INFO - Successfully processed file: [10-31-24].txt
+2025-05-17 19:59:04,779 - INFO - Successfully processed file: [11-1-24].txt
+2025-05-17 19:59:04,796 - INFO - Successfully processed file: [11-3-24].txt
+2025-05-17 19:59:04,811 - INFO - Successfully processed file: [11-4-24].txt
+2025-05-17 19:59:04,824 - INFO - Successfully processed file: [11-5-24].txt
+2025-05-17 19:59:04,840 - INFO - Successfully processed file: [11-7-24].txt
+2025-05-17 19:59:04,962 - INFO - Successfully processed file: [11-8-24].txt
+2025-05-17 19:59:04,972 - INFO - Successfully processed file: [11-9-24].txt
+2025-05-17 19:59:04,983 - INFO - Successfully processed file: [11-10-24].txt
+2025-05-17 19:59:05,003 - INFO - Successfully processed file: [11-11-24].txt
+2025-05-17 19:59:05,011 - INFO - Successfully processed file: [11-12-24].txt
+2025-05-17 19:59:05,020 - INFO - Successfully processed file: [11-13-24].txt
+2025-05-17 19:59:05,030 - INFO - Successfully processed file: [11-14-24].txt
+2025-05-17 19:59:05,041 - INFO - Successfully processed file: [11-15-24].txt
+2025-05-17 19:59:05,051 - INFO - Successfully processed file: [11-17-24].txt
+2025-05-17 19:59:05,069 - INFO - Successfully processed file: [11-18-24].txt
+2025-05-17 19:59:05,081 - INFO - Successfully processed file: [11-19-24].txt
+2025-05-17 19:59:05,086 - INFO - Successfully processed file: [11-21-24].txt
+2025-05-17 19:59:05,090 - INFO - Successfully processed file: [11-22-24].txt
+2025-05-17 19:59:05,097 - INFO - Successfully processed file: [11-23-24].txt
+2025-05-17 19:59:05,112 - INFO - Successfully processed file: [11-25-24].txt
+2025-05-17 19:59:05,121 - INFO - Successfully processed file: [11-26-24].txt
+2025-05-17 19:59:05,129 - INFO - Successfully processed file: [11-27-24].txt
+2025-05-17 19:59:05,132 - WARNING - Line doesn't match pattern: [2024-11-28 13:19:41 UTC] metinim01:...
+2025-05-17 19:59:05,140 - INFO - Successfully processed file: [11-28-24].txt
+2025-05-17 19:59:05,152 - INFO - Successfully processed file: [11-29-24].txt
+2025-05-17 19:59:05,159 - INFO - Successfully processed file: [12-1-24].txt
+2025-05-17 19:59:05,162 - INFO - Successfully processed file: [12-1-24]2.txt
+2025-05-17 19:59:05,177 - INFO - Successfully processed file: [12-3-24].txt
+2025-05-17 19:59:05,189 - INFO - Successfully processed file: [12-4-24].txt
+2025-05-17 19:59:05,197 - INFO - Successfully processed file: [12-5-24].txt
+2025-05-17 19:59:05,211 - INFO - Successfully processed file: [12-6-24].txt
+2025-05-17 19:59:05,220 - INFO - Successfully processed file: [12-7-24].txt
+2025-05-17 19:59:05,225 - INFO - Successfully processed file: [12-8-24].txt
+2025-05-17 19:59:05,276 - INFO - Successfully processed file: [12-9-24].txt
+2025-05-17 19:59:05,290 - INFO - Successfully processed file: [12-11-24].txt
+2025-05-17 19:59:05,298 - INFO - Successfully processed file: [12-12-24].txt
+2025-05-17 19:59:05,312 - INFO - Successfully processed file: [12-13-24].txt
+2025-05-17 19:59:05,327 - INFO - Successfully processed file: [12-16-24].txt
+2025-05-17 19:59:05,337 - INFO - Successfully processed file: [12-17-24].txt
+2025-05-17 19:59:05,359 - INFO - Successfully processed file: [12-18-24].txt
+2025-05-17 19:59:05,509 - INFO - Successfully processed file: [12-19-24].txt
+2025-05-17 19:59:05,520 - INFO - Successfully processed file: [12-20-24].txt
+2025-05-17 19:59:05,530 - INFO - Successfully processed file: [12-21-24].txt
+2025-05-17 19:59:05,540 - INFO - Successfully processed file: [12-22-24].txt
+2025-05-17 19:59:05,549 - INFO - Successfully processed file: [12-23-24].txt
+2025-05-17 19:59:05,557 - INFO - Successfully processed file: [12-25-24].txt
+2025-05-17 19:59:05,566 - INFO - Successfully processed file: [12-26-24].txt
+2025-05-17 19:59:05,577 - INFO - Successfully processed file: [12-27-24].txt
+2025-05-17 19:59:05,590 - INFO - Successfully processed file: [12-28-24].txt
+2025-05-17 19:59:05,596 - INFO - Successfully processed file: [12-29-24].txt
+2025-05-17 19:59:05,614 - INFO - Successfully processed file: [12-30-24].txt
+2025-05-17 19:59:05,632 - INFO - Successfully processed file: [12-31-24].txt
+2025-05-17 19:59:05,638 - WARNING - Line doesn't match pattern: [2025-01-01 14:27:54 UTC] Vidke04:...
+2025-05-17 19:59:05,642 - INFO - Successfully processed file: [1-1-25].txt
+2025-05-17 19:59:05,658 - INFO - Successfully processed file: [1-3-25].txt
+2025-05-17 19:59:05,671 - INFO - Successfully processed file: [1-4-25].txt
+2025-05-17 19:59:05,700 - INFO - Successfully processed file: [1-5-25].txt
+2025-05-17 19:59:05,717 - INFO - Successfully processed file: [1-6-25].txt
+2025-05-17 19:59:05,740 - INFO - Successfully processed file: [1-8-25].txt
+2025-05-17 19:59:05,756 - INFO - Successfully processed file: [1-9-25].txt
+2025-05-17 19:59:05,770 - WARNING - Line doesn't match pattern: ...
+2025-05-17 19:59:05,771 - INFO - Successfully processed file: [1-10-25].txt
+2025-05-17 19:59:05,790 - INFO - Successfully processed file: [1-11-25].txt
+2025-05-17 19:59:05,802 - INFO - Successfully processed file: [1-12-25].txt
+2025-05-17 19:59:05,818 - INFO - Successfully processed file: [1-14-25].txt
+2025-05-17 19:59:05,834 - WARNING - Line doesn't match pattern: [2025-01-15 17:33:29 UTC] ttrek_:...
+2025-05-17 19:59:05,834 - WARNING - Line doesn't match pattern: [2025-01-15 17:33:45 UTC] shogalul:...
+2025-05-17 19:59:05,834 - WARNING - Line doesn't match pattern: [2025-01-15 17:34:01 UTC] uuccugr:...
+2025-05-17 19:59:05,836 - INFO - Successfully processed file: [1-15-25].txt
+2025-05-17 19:59:05,849 - INFO - Successfully processed file: [1-16-25].txt
+2025-05-17 19:59:05,866 - INFO - Successfully processed file: [1-17-25].txt
+2025-05-17 19:59:05,879 - INFO - Successfully processed file: [1-18-25].txt
+2025-05-17 19:59:05,895 - INFO - Successfully processed file: [1-19-25].txt
+2025-05-17 19:59:05,908 - INFO - Successfully processed file: [1-20-25].txt
+2025-05-17 19:59:05,928 - INFO - Successfully processed file: [1-22-25].txt
+2025-05-17 19:59:05,937 - INFO - Successfully processed file: [1-23-25].txt
+2025-05-17 19:59:05,957 - INFO - Successfully processed file: [1-24-25].txt
+2025-05-17 19:59:05,980 - INFO - Successfully processed file: [1-26-25].txt
+2025-05-17 19:59:06,002 - INFO - Successfully processed file: [1-27-25].txt
+2025-05-17 19:59:06,012 - INFO - Successfully processed file: [1-28-25].txt
+2025-05-17 19:59:06,027 - INFO - Successfully processed file: [1-29-25].txt
+2025-05-17 19:59:06,035 - INFO - Successfully processed file: [1-30-25].txt
+2025-05-17 19:59:06,231 - INFO - Successfully processed file: [1-31-25].txt
+2025-05-17 19:59:06,244 - INFO - Successfully processed file: [2-1-25].txt
+2025-05-17 19:59:06,258 - INFO - Successfully processed file: [2-2-25].txt
+2025-05-17 19:59:06,267 - WARNING - Line doesn't match pattern: [2025-02-03 15:38:04 UTC] ttrek_:...
+2025-05-17 19:59:06,267 - WARNING - Line doesn't match pattern: [2025-02-03 15:38:47 UTC] phrank007:...
+2025-05-17 19:59:06,267 - WARNING - Line doesn't match pattern: [2025-02-03 15:38:48 UTC] stan_iv4:...
+2025-05-17 19:59:06,271 - INFO - Successfully processed file: [2-3-25].txt
+2025-05-17 19:59:06,287 - INFO - Successfully processed file: [2-4-25].txt
+2025-05-17 19:59:06,305 - INFO - Successfully processed file: [2-5-25].txt
+2025-05-17 19:59:06,322 - INFO - Successfully processed file: [2-7-25].txt
+2025-05-17 19:59:06,336 - INFO - Successfully processed file: [2-8-25].txt
+2025-05-17 19:59:06,351 - INFO - Successfully processed file: [2-9-25].txt
+2025-05-17 19:59:06,370 - INFO - Successfully processed file: [2-10-25].txt
+2025-05-17 19:59:06,380 - INFO - Successfully processed file: [2-11-25].txt
+2025-05-17 19:59:06,395 - INFO - Successfully processed file: [2-12-25].txt
+2025-05-17 19:59:06,414 - INFO - Successfully processed file: [2-14-25].txt
+2025-05-17 19:59:06,422 - WARNING - Line doesn't match pattern: [2025-02-15 16:23:30 UTC] eOV3RDRIVE:...
+2025-05-17 19:59:06,427 - WARNING - Line doesn't match pattern: [2025-02-15 18:21:27 UTC] iambrebu:...
+2025-05-17 19:59:06,434 - INFO - Successfully processed file: [2-15-25].txt
+2025-05-17 19:59:06,457 - INFO - Successfully processed file: [2-16-25].txt
+2025-05-17 19:59:06,509 - INFO - Successfully processed file: [2-17-25].txt
+2025-05-17 19:59:06,531 - INFO - Successfully processed file: [2-18-25].txt
+2025-05-17 19:59:06,557 - INFO - Successfully processed file: [2-19-25].txt
+2025-05-17 19:59:06,586 - INFO - Successfully processed file: [2-21-25].txt
+2025-05-17 19:59:06,615 - INFO - Successfully processed file: [2-22-25].txt
+2025-05-17 19:59:06,644 - INFO - Successfully processed file: [2-23-25].txt
+2025-05-17 19:59:06,664 - INFO - Successfully processed file: [2-25-25].txt
+2025-05-17 19:59:06,685 - INFO - Successfully processed file: [2-26-25].txt
+2025-05-17 19:59:06,712 - INFO - Successfully processed file: [2-27-25].txt
+2025-05-17 19:59:06,780 - INFO - Successfully processed file: [2-28-25].txt
+2025-05-17 19:59:06,799 - INFO - Successfully processed file: [3-1-25].txt
+2025-05-17 19:59:06,830 - INFO - Successfully processed file: [3-2-25].txt
+2025-05-17 19:59:06,859 - WARNING - Line doesn't match pattern: [2025-03-03 17:56:16 UTC] DOROZEA_LOVER:...
+2025-05-17 19:59:06,871 - INFO - Successfully processed file: [3-3-25].txt
+2025-05-17 19:59:06,891 - INFO - Successfully processed file: [3-4-25].txt
+2025-05-17 19:59:06,917 - INFO - Successfully processed file: [3-5-25].txt
+2025-05-17 19:59:07,162 - INFO - Successfully processed file: [3-6-25].txt
+2025-05-17 19:59:07,177 - INFO - Successfully processed file: [3-7-25].txt
+2025-05-17 19:59:07,211 - INFO - Successfully processed file: [3-8-25].txt
+2025-05-17 19:59:07,244 - INFO - Successfully processed file: [3-9-25].txt
+2025-05-17 19:59:07,260 - INFO - Successfully processed file: [3-10-25].txt
+2025-05-17 19:59:07,273 - INFO - Successfully processed file: [3-11-25].txt
+2025-05-17 19:59:07,292 - INFO - Successfully processed file: [3-12-25].txt
+2025-05-17 19:59:07,350 - INFO - Successfully processed file: [3-14-25].txt
+2025-05-17 19:59:07,359 - INFO - Successfully processed file: [3-15-25].txt
+2025-05-17 19:59:07,389 - INFO - Successfully processed file: [3-16-25].txt
+2025-05-17 19:59:07,417 - INFO - Successfully processed file: [3-17-25].txt
+2025-05-17 19:59:07,449 - INFO - Successfully processed file: [3-19-25].txt
+2025-05-17 19:59:07,482 - INFO - Successfully processed file: [3-20-25].txt
+2025-05-17 19:59:07,499 - INFO - Successfully processed file: [3-21-25].txt
+2025-05-17 19:59:07,520 - INFO - Successfully processed file: [3-22-25].txt
+2025-05-17 19:59:07,534 - INFO - Successfully processed file: [3-23-25].txt
+2025-05-17 19:59:07,560 - INFO - Successfully processed file: [3-24-25].txt
+2025-05-17 19:59:07,601 - INFO - Successfully processed file: [3-25-25].txt
+2025-05-17 19:59:07,632 - INFO - Successfully processed file: [3-26-25].txt
+2025-05-17 19:59:07,682 - INFO - Successfully processed file: [3-28-25].txt
+2025-05-17 19:59:07,690 - INFO - Successfully processed file: [3-29-25].txt
+2025-05-17 19:59:07,707 - INFO - Successfully processed file: [3-30-25].txt
+2025-05-17 19:59:07,727 - INFO - Successfully processed file: [3-31-25].txt
+2025-05-17 19:59:07,743 - INFO - Successfully processed file: [4-1-25].txt
+2025-05-17 19:59:07,747 - WARNING - Line doesn't match pattern: [2025-04-03 12:50:54 UTC] sedy96:...
+2025-05-17 19:59:07,751 - INFO - Successfully processed file: [4-3-25].txt
+2025-05-17 19:59:07,775 - INFO - Successfully processed file: [4-4-25].txt
+2025-05-17 19:59:07,790 - INFO - Successfully processed file: [4-5-25].txt
+2025-05-17 19:59:07,822 - INFO - Successfully processed file: [4-6-25].txt
+2025-05-17 19:59:07,833 - WARNING - Line doesn't match pattern: [2025-04-07 15:14:27 UTC] shogalul:...
+2025-05-17 19:59:07,843 - INFO - Successfully processed file: [4-7-25].txt
+2025-05-17 19:59:07,854 - INFO - Successfully processed file: [4-8-25].txt
+2025-05-17 19:59:07,870 - INFO - Successfully processed file: [4-9-25].txt
+2025-05-17 19:59:07,883 - INFO - Successfully processed file: [4-11-25].txt
+2025-05-17 19:59:07,896 - INFO - Successfully processed file: [4-12-25].txt
+2025-05-17 19:59:07,912 - INFO - Successfully processed file: [4-13-25].txt
+2025-05-17 19:59:07,930 - INFO - Successfully processed file: [4-14-25].txt
+2025-05-17 19:59:07,948 - INFO - Successfully processed file: [4-15-25].txt
+2025-05-17 19:59:07,966 - INFO - Successfully processed file: [4-16-25].txt
+2025-05-17 19:59:08,272 - INFO - Successfully processed file: [4-17-25].txt
+2025-05-17 19:59:08,295 - INFO - Successfully processed file: [4-19-25].txt
+2025-05-17 19:59:08,308 - INFO - Successfully processed file: [4-20-25].txt
+2025-05-17 19:59:08,330 - INFO - Successfully processed file: [4-21-25].txt
+2025-05-17 19:59:08,358 - INFO - Successfully processed file: [4-22-25].txt
+2025-05-17 19:59:08,368 - WARNING - Line doesn't match pattern: [2025-04-24 15:25:53 UTC] Randy2D:...
+2025-05-17 19:59:08,376 - INFO - Successfully processed file: [4-24-25].txt
+2025-05-17 19:59:08,399 - INFO - Successfully processed file: [4-25-25].txt
+2025-05-17 19:59:08,411 - INFO - Successfully processed file: [4-26-25].txt
+2025-05-17 19:59:08,434 - INFO - Successfully processed file: [4-27-25].txt
+2025-05-17 19:59:08,458 - INFO - Successfully processed file: [4-28-25].txt
+2025-05-17 19:59:08,467 - INFO - Successfully processed file: [4-30-25].txt
+2025-05-17 19:59:08,503 - INFO - Successfully processed file: [5-1-25].txt
+2025-05-17 19:59:08,508 - WARNING - Line doesn't match pattern: [2025-05-02 13:24:44 UTC] itsR4kan:...
+2025-05-17 19:59:08,512 - INFO - Successfully processed file: [5-2-25].txt
+2025-05-17 19:59:08,525 - INFO - Successfully processed file: [5-3-25].txt
+2025-05-17 19:59:08,544 - INFO - Successfully processed file: [5-4-25].txt
+2025-05-17 19:59:08,559 - INFO - Successfully processed file: [5-6-25].txt
+2025-05-17 19:59:08,578 - INFO - Successfully processed file: [5-7-25].txt
+2025-05-17 19:59:08,586 - INFO - Successfully processed file: [5-8-25].txt
+2025-05-17 19:59:08,611 - INFO - Successfully processed file: [5-9-25].txt
+2025-05-17 19:59:08,619 - INFO - Successfully processed file: [5-10-25].txt
+2025-05-17 19:59:08,625 - WARNING - Line doesn't match pattern: [2025-05-11 13:37:49 UTC] NoreLezZ:...
+2025-05-17 19:59:08,632 - INFO - Successfully processed file: [5-11-25].txt
+2025-05-17 19:59:08,648 - INFO - Successfully processed file: [5-13-25].txt
+2025-05-17 19:59:08,660 - INFO - Successfully processed file: [5-14-25].txt
+2025-05-17 19:59:08,673 - INFO - Successfully processed file: [5-15-25].txt
+2025-05-17 19:59:09,397 - INFO - Parsed 1768831 chat messages
+2025-05-17 19:59:10,739 - INFO - Found username variants for tilch: ['Tilch', 'tilch']
+2025-05-17 19:59:10,740 - INFO - Found username variants for gyllenc: ['Gyllenc', 'gyllenc']
+2025-05-17 19:59:10,740 - INFO - Found username variants for roomunder: ['ROOMUNDER', 'roomunder']
+2025-05-17 19:59:10,740 - INFO - Found username variants for notbat: ['NOTBAT', 'notbat']
+2025-05-17 19:59:10,740 - INFO - Found username variants for nurm1_0_0: ['NURM1_0_0', 'NuRM1_0_0']
+2025-05-17 19:59:10,740 - INFO - Found username variants for iamconvinc3d: ['Iamconvinc3d', 'iamconvinc3d']
+2025-05-17 19:59:10,740 - INFO - Found username variants for wisez__: ['wiseZ__', 'wisez__']
+2025-05-17 19:59:10,740 - INFO - Found username variants for r4rrixd: ['R4RRIXD', 'r4rrixd']
+2025-05-17 19:59:10,740 - INFO - Found username variants for obungakung: ['OBUNGAKUNG', 'obungakung']
+2025-05-17 19:59:10,740 - INFO - Found username variants for chimphailpk: ['ChimpHailpk', 'chimphailpk']
+2025-05-17 19:59:10,741 - INFO - Found username variants for xfrell1: ['Xfrell1', 'xfrell1']
+2025-05-17 19:59:10,741 - INFO - Found username variants for lopilop1: ['Lopilop1', 'lopilop1']
+2025-05-17 19:59:10,741 - INFO - Found username variants for trodainus: ['Trodainus', 'trodainus']
+2025-05-17 19:59:10,741 - INFO - Found username variants for kavnera: ['KAVNERA', 'kavnera']
+2025-05-17 19:59:10,741 - INFO - Found username variants for noxiex4charity12: ['Noxiex4Charity12', 'noxiex4charity12']
+2025-05-17 19:59:10,741 - INFO - Found username variants for macbless: ['MacBless', 'macbless']
+2025-05-17 19:59:10,741 - INFO - Found username variants for anos87w: ['Anos87w', 'anos87w']
+2025-05-17 19:59:10,741 - INFO - Found username variants for vladyslav_h: ['VLADYSLAV_H', 'vladyslav_h']
+2025-05-17 19:59:10,741 - INFO - Found username variants for ars_rugal: ['ARS_RUGAL', 'ars_rugal']
+2025-05-17 19:59:10,741 - INFO - Found username variants for artemioni4: ['Artemioni4', 'artemioni4']
+2025-05-17 19:59:10,742 - INFO - Found username variants for adel5244: ['Adel5244', 'adel5244']
+2025-05-17 19:59:10,742 - INFO - Found username variants for f1zzcsgo: ['F1ZZcsgo', 'f1zzcsgo']
+2025-05-17 19:59:10,742 - INFO - Found username variants for bubrekht: ['BuBRekht', 'BuBrekht', 'bubrekht']
+2025-05-17 19:59:10,742 - INFO - Found username variants for martimmendez: ['MartimMendeZ', 'martimmendez']
+2025-05-17 19:59:10,742 - INFO - Found username variants for alsobres2: ['AlSobreS2', 'alsobreS2']
+2025-05-17 19:59:10,742 - INFO - Found username variants for lazysloth4lyfez: ['LazySloth4Lyfez', 'Lazysloth4lyfez']
+2025-05-17 19:59:10,742 - INFO - Found username variants for sinazanjirchi: ['SinaZanjirchi', 'sinazanjirchi']
+2025-05-17 19:59:10,742 - INFO - Found username variants for omarmohamed3211: ['Omarmohamed3211', 'omarmohamed3211']
+2025-05-17 19:59:10,742 - INFO - Found username variants for fangho_: ['FanGho_', 'fangho_']
+2025-05-17 19:59:10,742 - INFO - Found username variants for laurencece: ['LaurenceCE', 'Laurencece']
+2025-05-17 19:59:10,742 - INFO - Found username variants for xisken: ['XISKEN', 'xisken']
+2025-05-17 19:59:10,742 - INFO - Found username variants for thwaco: ['Thwaco', 'thwaco']
+2025-05-17 19:59:10,742 - INFO - Found username variants for mrxmorgan: ['MrxMorgan', 'mrxmorgan']
+2025-05-17 19:59:10,742 - INFO - Found username variants for courtneygenetti: ['CourtneyGenetti', 'courtneygenetti']
+2025-05-17 19:59:10,742 - INFO - Found username variants for snufkingred: ['Snufkingred', 'snufkingred']
+2025-05-17 19:59:10,742 - INFO - Found username variants for quanglick1: ['QuangLick1', 'quanglick1']
+2025-05-17 19:59:10,742 - INFO - Found username variants for gsk_lol: ['GSK_lol', 'gsk_lol']
+2025-05-17 19:59:10,742 - INFO - Found username variants for mrdursleyessence: ['MrDursleyEssence', 'mrdursleyessence']
+2025-05-17 19:59:10,742 - INFO - Found username variants for kukalfg: ['kukaLFG', 'kukalfg']
+2025-05-17 19:59:10,742 - INFO - Found username variants for crouchh: ['Crouchh', 'crouchh']
+2025-05-17 19:59:10,742 - INFO - Found username variants for itsssyugi: ['itsssYugi', 'itsssyugi']
+2025-05-17 19:59:10,742 - INFO - Found username variants for bhargav_pilli: ['Bhargav_Pilli', 'bhargav_pilli']
+2025-05-17 19:59:10,743 - INFO - Found username variants for onlyyfaisal: ['OnlyyFaisal', 'onlyyfaisal']
+2025-05-17 19:59:10,743 - INFO - Found username variants for realdrakkar: ['RealDrakkar', 'realdrakkar']
+2025-05-17 19:59:10,743 - INFO - Found username variants for morningstart12: ['MorningStarT12', 'Morningstart12']
+2025-05-17 19:59:10,743 - INFO - Found username variants for ghost_capi20: ['ghost_Capi20', 'ghost_capi20']
+2025-05-17 19:59:10,743 - INFO - Found username variants for x_artifex_x: ['x_ARTIFEX_x', 'x_Artifex_x', 'x_artifex_x']
+2025-05-17 19:59:10,743 - INFO - Found username variants for wanderer039: ['Wanderer039', 'wanderer039']
+2025-05-17 19:59:10,743 - INFO - Found username variants for mrfixit003: ['MrFixIt003', 'MrFixit003']
+2025-05-17 19:59:10,743 - INFO - Found username variants for kolyanskiy1: ['Kolyanskiy1', 'kolyanskiy1']
+2025-05-17 19:59:10,743 - INFO - Found username variants for djang0o_: ['Djang0o_', 'djang0o_']
+2025-05-17 19:59:10,743 - INFO - Found username variants for boudaxdd: ['boudaXDD', 'boudaxdd']
+2025-05-17 19:59:10,743 - INFO - Found username variants for pige0n98: ['PiGE0N98', 'pige0n98']
+2025-05-17 19:59:10,743 - INFO - Found username variants for sm0rc: ['SM0rc', 'sm0rc']
+2025-05-17 19:59:10,743 - INFO - Found username variants for frenzied701: ['FrenZied701', 'frenzied701']
+2025-05-17 19:59:10,743 - INFO - Found username variants for teodorvecerdi: ['TeodorVecerdi', 'teodorvecerdi']
+2025-05-17 19:59:10,743 - INFO - Found username variants for maoozkhan120: ['MaoozKhan120', 'maoozkhan120']
+2025-05-17 19:59:10,743 - INFO - Found username variants for honey2d: ['Honey2D', 'honey2D']
+2025-05-17 19:59:10,743 - INFO - Found username variants for farshidfff: ['Farshidfff', 'farshidfff']
+2025-05-17 19:59:10,743 - INFO - Found username variants for 4lreal: ['4lReal', '4lreal']
+2025-05-17 19:59:10,743 - INFO - Found username variants for n0rth0m: ['N0rth0M', 'n0rth0m']
+2025-05-17 19:59:10,743 - INFO - Found username variants for rooster6985: ['RoosTer6985', 'rooster6985']
+2025-05-17 19:59:10,743 - INFO - Found username variants for simplifiedbowl: ['SimplifiedBowl', 'simplifiedbowl']
+2025-05-17 19:59:10,743 - INFO - Found username variants for kz_azazejlb_06: ['KZ_AzAzeJlb_06', 'kz_azazejlb_06']
+2025-05-17 19:59:10,743 - INFO - Found username variants for carylo: ['Carylo', 'carylo']
+2025-05-17 19:59:10,743 - INFO - Found username variants for imstar1x: ['IMSTAR1X', 'imstar1x']
+2025-05-17 19:59:10,743 - INFO - Found username variants for rmnnpc: ['RmnNpc', 'rmnnpc']
+2025-05-17 19:59:10,743 - INFO - Found username variants for roxytr: ['RoxyTR', 'roxytr']
+2025-05-17 19:59:10,743 - INFO - Found username variants for dash_2600: ['DASH_2600', 'dash_2600']
+2025-05-17 19:59:10,743 - INFO - Found username variants for aireea: ['AireeA', 'aireea']
+2025-05-17 19:59:10,743 - INFO - Found username variants for sensekidd: ['SenseKidd', 'sensekidd']
+2025-05-17 19:59:10,743 - INFO - Found username variants for strongproflt: ['STRONGPROFlT', 'strongproflt']
+2025-05-17 19:59:10,743 - INFO - Found username variants for nirwanai: ['Nirwanai', 'nirwanai']
+2025-05-17 19:59:10,743 - INFO - Found username variants for pr4ks_cs2: ['pr4Ks_cs2', 'pr4ks_cs2']
+2025-05-17 19:59:10,744 - INFO - Found username variants for pinhajoga: ['PINHAjoga', 'pinhajoga']
+2025-05-17 19:59:10,744 - INFO - Found username variants for landaqq: ['LandaQQ', 'landaQQ', 'landaqq']
+2025-05-17 19:59:10,744 - INFO - Found username variants for zoddx47: ['Zoddx47', 'zoddx47']
+2025-05-17 19:59:10,744 - INFO - Found username variants for ithinkthereforeidrink: ['iThinkTHEREFOREiDrink', 'iThinkThereforeiDrink']
+2025-05-17 19:59:10,744 - INFO - Found username variants for 1mayas_ggz: ['1MAYAS_GGZ', '1MAYAS_GGz']
+2025-05-17 19:59:10,744 - INFO - Found username variants for 1tapelite_yugen: ['1TapElite_YUGEN', '1TapElite_YugeN']
+2025-05-17 19:59:10,744 - INFO - Found username variants for whitetrashdigital: ['WhiteTrashDigital', 'whitetrashdigital']
+2025-05-17 19:59:10,744 - INFO - Found username variants for kenzokent: ['KenzoKent', 'kenzokent']
+2025-05-17 19:59:10,744 - INFO - Found username variants for kalzi0n: ['Kalzi0n', 'kAlZi0N']
+2025-05-17 19:59:10,744 - INFO - Found username variants for zriffty: ['Zriffty', 'zriffty']
+2025-05-17 19:59:10,744 - INFO - Found username variants for 7atc: ['7ATC', '7atc']
+2025-05-17 19:59:10,744 - INFO - Found username variants for zreez_angel: ['zReeZ_Angel', 'zreez_angel']
+2025-05-17 19:59:10,744 - INFO - Found username variants for schopfer_: ['SchopfeR_', 'Schopfer_']
+2025-05-17 19:59:10,744 - INFO - Found username variants for marmormaze: ['MARMORMAZE', 'Marmormaze']
+2025-05-17 19:59:10,744 - INFO - Found username variants for po20_04wali: ['Po20_04wali', 'po20_04wali']
+2025-05-17 19:59:10,744 - INFO - Found username variants for fl1nd3r: ['FL1ND3r', 'fl1nd3r']
+2025-05-17 19:59:10,744 - INFO - Found username variants for s4sk__: ['S4SK__', 's4sk__']
+2025-05-17 19:59:10,744 - INFO - Found username variants for vincentvonbroccoli: ['VincentVonBroccoli', 'vincentvonbroccoli']
+2025-05-17 19:59:10,744 - INFO - Found username variants for notoriousdiehard: ['NOToriousDiehard', 'NotoriousDiehard', 'notoriousdiehard']
+2025-05-17 19:59:10,745 - INFO - Found username variants for yocwilly: ['YoCWilly', 'yocwilly']
+2025-05-17 19:59:10,745 - INFO - Found username variants for one1_gamer: ['One1_gamer', 'one1_gamer']
+2025-05-17 19:59:10,745 - INFO - Found username variants for mysterohorsty: ['MysteroHorsty', 'mysterohorsty']
+2025-05-17 19:59:10,745 - INFO - Found username variants for spankerinooo: ['Spankerinooo', 'spankerinooo']
+2025-05-17 19:59:10,745 - INFO - Found username variants for momiiii69: ['Momiiii69', 'momiiii69']
+2025-05-17 19:59:10,745 - INFO - Found username variants for glexik_god: ['Glexik_God', 'glexik_god']
+2025-05-17 19:59:10,745 - INFO - Found username variants for wilisdex: ['WILISDEX', 'wilisDEX']
+2025-05-17 19:59:10,745 - INFO - Found username variants for batwick_: ['BATwick_', 'batwick_']
+2025-05-17 19:59:10,745 - INFO - Found username variants for shaffeeru786: ['shaffeeRU786', 'shaffeeru786']
+2025-05-17 19:59:10,745 - INFO - Found username variants for bevv_rayan: ['Bevv_Rayan', 'bevv_rayan']
+2025-05-17 19:59:10,745 - INFO - Found username variants for nabilallmighty: ['NabilAllMighty', 'Nabilallmighty']
+2025-05-17 19:59:10,745 - INFO - Found username variants for nomoresl: ['NoMoreSL', 'nomoresl']
+2025-05-17 19:59:10,745 - INFO - Found username variants for cukululu41: ['cukuLuLu41', 'cukululu41']
+2025-05-17 19:59:10,745 - INFO - Found username variants for chillguy910: ['CHILLGUY910', 'chillguy910']
+2025-05-17 19:59:10,745 - INFO - Found username variants for magadesol: ['Magadesol', 'magadesol']
+2025-05-17 19:59:10,745 - INFO - Found username variants for night4slasher: ['Night4Slasher', 'night4slasher']
+2025-05-17 19:59:10,746 - INFO - Found username variants for illuminatistorm: ['IlluminatiStorm', 'Illuminatistorm']
+2025-05-17 19:59:10,746 - INFO - Found username variants for kofovica: ['kOfovicA', 'kofovica']
+2025-05-17 19:59:10,746 - INFO - Found username variants for ste_113: ['Ste_113', 'ste_113']
+2025-05-17 19:59:10,746 - INFO - Found username variants for aviatorgeeks: ['Aviatorgeeks', 'aviatorgeeks']
+2025-05-17 19:59:10,746 - INFO - Found username variants for winterwolf_audrey1234: ['winterwolf_Audrey1234', 'winterwolf_audrey1234']
+2025-05-17 19:59:10,746 - INFO - Found username variants for 1flusha: ['1Flusha', '1flusha']
+2025-05-17 19:59:10,746 - INFO - Found username variants for moonwolf0722: ['MOONWOLF0722', 'moonwolf0722']
+2025-05-17 19:59:10,746 - INFO - Found username variants for molluskfriend: ['MolluskFriend', 'molluskFriend']
+2025-05-17 19:59:10,746 - INFO - Found username variants for nightingale_______: ['Nightingale_______', 'nightingale_______']
+2025-05-17 19:59:10,746 - INFO - Found username variants for klaik92: ['kLaiK92', 'klaik92']
+2025-05-17 19:59:10,746 - INFO - Found username variants for lord______6: ['LORD______6', 'lord______6']
+2025-05-17 19:59:10,746 - INFO - Found username variants for l3sse_g: ['L3SSE_g', 'l3sse_g']
+2025-05-17 19:59:10,746 - INFO - Found username variants for anbugandhipoovai: ['AnbuGandhiPoovai', 'anbugandhipoovai']
+2025-05-17 19:59:10,746 - INFO - Found username variants for gabork4: ['GaBoRk4', 'Gabork4']
+2025-05-17 19:59:10,746 - INFO - Found username variants for doniori1: ['DONIORI1', 'Doniori1']
+2025-05-17 19:59:10,746 - INFO - Found username variants for abdullahoneui: ['Abdullahoneui', 'abdullahoneui']
+2025-05-17 19:59:10,746 - INFO - Found username variants for gregg_69: ['Gregg_69', 'gregg_69']
+2025-05-17 19:59:10,746 - INFO - Found username variants for cho4otaco: ['CHO4oTacO', 'CHO4oTaco']
+2025-05-17 19:59:10,746 - INFO - Found username variants for dubsta5: ['Dubsta5', 'dubsta5']
+2025-05-17 19:59:10,746 - INFO - Found username variants for foooq: ['fOooQ', 'foooq']
+2025-05-17 19:59:10,746 - INFO - Found username variants for m0azzz: ['M0AZZZ', 'M0aZzz']
+2025-05-17 19:59:10,746 - INFO - Found username variants for cfu4y: ['CFU4Y', 'cfu4y']
+2025-05-17 19:59:10,747 - INFO - Found username variants for calumtooru: ['calumtoorU', 'calumtooru']
+2025-05-17 19:59:10,747 - INFO - Found username variants for cootfart: ['COOTFART', 'cootfart']
+2025-05-17 19:59:10,747 - INFO - Found username variants for nilvandir: ['Nilvandir', 'nilvandir']
+2025-05-17 19:59:10,747 - INFO - Found username variants for cschomper: ['csCHOMPER', 'csChomper']
+2025-05-17 19:59:10,747 - INFO - Found username variants for redzaa0: ['redzAA0', 'redzaa0']
+2025-05-17 19:59:10,747 - INFO - Found username variants for ravmasau: ['ravmasAU', 'ravmasau']
+2025-05-17 19:59:10,747 - INFO - Found username variants for arriql: ['Arriql', 'arriql']
+2025-05-17 19:59:10,747 - INFO - Found username variants for fr0d0_gg: ['fr0d0_GG', 'fr0d0_gg']
+2025-05-17 19:59:10,747 - INFO - Found username variants for l1rth: ['L1RTH', 'l1rth']
+2025-05-17 19:59:10,747 - INFO - Found username variants for yusuf_mobra: ['YUSUF_MOBRA', 'Yusuf_Mobra']
+2025-05-17 19:59:10,747 - INFO - Found username variants for wnch5tr_: ['WNCH5TR_', 'wnch5tr_']
+2025-05-17 19:59:10,747 - INFO - Found username variants for xcleezo: ['xCleezO', 'xCleezo']
+2025-05-17 19:59:10,747 - INFO - Found username variants for carasque: ['carAsque', 'carasque']
+2025-05-17 19:59:10,747 - INFO - Found username variants for ap0stolos: ['Ap0stolos', 'ap0stolos']
+2025-05-17 19:59:10,747 - INFO - Found username variants for ljnlevi: ['LJNlevi', 'ljnlevi']
+2025-05-17 19:59:10,747 - INFO - Found username variants for toto_house: ['ToTo_house', 'toto_house']
+2025-05-17 19:59:10,747 - INFO - Found username variants for bootlegbonniee: ['BootlegBonniee', 'bootlegbonniee']
+2025-05-17 19:59:10,747 - INFO - Found username variants for ogbuda_szn: ['ogbuda_sZn', 'ogbuda_szn']
+2025-05-17 19:59:10,747 - INFO - Found username variants for alphaslanjr: ['AlphaslanJr', 'alphaslanjr']
+2025-05-17 19:59:10,748 - INFO - Found username variants for jofferson015: ['Jofferson015', 'jofferson015']
+2025-05-17 19:59:10,748 - INFO - Found username variants for ousiacosmicbee: ['OusiaCosmicBee', 'ousiacosmicbee']
+2025-05-17 19:59:10,748 - INFO - Found username variants for itsedzz: ['ItsEdzZ', 'itsedzz']
+2025-05-17 19:59:10,748 - INFO - Found username variants for honelanderbrute: ['HonelanderBrute', 'honelanderbrute']
+2025-05-17 19:59:10,748 - INFO - Found username variants for terminal4444: ['Terminal4444', 'terminal4444']
+2025-05-17 19:59:10,748 - INFO - Found username variants for huseyincsgoo: ['HuseyinCSGOO', 'huseyincsgoo']
+2025-05-17 19:59:10,748 - INFO - Found username variants for s3eed_098: ['S3eed_098', 's3eed_098']
+2025-05-17 19:59:10,748 - INFO - Found username variants for tbytkos: ['tBYtKOS', 'tbytkos']
+2025-05-17 19:59:10,748 - INFO - Found username variants for 7miyoshi7: ['7MIYOSHI7', '7miyoshi7']
+2025-05-17 19:59:10,748 - INFO - Found username variants for tisbect: ['Tisbect', 'tisbect']
+2025-05-17 19:59:10,748 - INFO - Found username variants for grigory: ['GRiGORY', 'grigory']
+2025-05-17 19:59:10,748 - INFO - Found username variants for enotkn: ['EnotKN', 'Enotkn']
+2025-05-17 19:59:10,748 - INFO - Found username variants for dveedo: ['DVEEDO', 'dveedo']
+2025-05-17 19:59:10,748 - INFO - Found username variants for forvidan: ['Forvidan', 'forvidan']
+2025-05-17 19:59:10,748 - INFO - Found username variants for kevlnyy: ['KEVlNYY', 'KEVlNYy']
+2025-05-17 19:59:10,748 - INFO - Found username variants for azaliaxox: ['Azaliaxox', 'azaliaxox']
+2025-05-17 19:59:10,748 - INFO - Found username variants for lagrettomentamozzo: ['LagrettoMentamozzo', 'lagrettomentamozzo']
+2025-05-17 19:59:10,748 - INFO - Found username variants for glitchav: ['Glitchav', 'glitchav']
+2025-05-17 19:59:10,748 - INFO - Found username variants for dobrota1337game: ['Dobrota1337game', 'dobrota1337game']
+2025-05-17 19:59:10,749 - INFO - Found username variants for unknw0naccount: ['unknw0nAccount', 'unknw0naccount']
+2025-05-17 19:59:10,749 - INFO - Found username variants for prime951__: ['Prime951__', 'prime951__']
+2025-05-17 19:59:10,749 - INFO - Found username variants for banditotheman: ['BanditoTheMan', 'banditotheman']
+2025-05-17 19:59:10,749 - INFO - Found username variants for bickcog158: ['BickCog158', 'bickcog158']
+2025-05-17 19:59:10,749 - INFO - Found username variants for pepegakun: ['PepegaKun', 'pepegakun']
+2025-05-17 19:59:10,749 - INFO - Found username variants for schiken44: ['SchiKen44', 'schiken44']
+2025-05-17 19:59:10,749 - INFO - Found username variants for d3on: ['D3ON', 'd3on']
+2025-05-17 19:59:10,749 - INFO - Found username variants for mishanyaa05: ['Mishanyaa05', 'mishanyaa05']
+2025-05-17 19:59:10,749 - INFO - Found username variants for bleekuwu: ['bleekUwU', 'bleekuwu']
+2025-05-17 19:59:10,749 - INFO - Found username variants for adam0f: ['Adam0f', 'adam0f']
+2025-05-17 19:59:10,749 - INFO - Found username variants for antidotdota_two: ['AntidotDota_Two', 'antidotdota_two']
+2025-05-17 19:59:10,749 - INFO - Found username variants for meteora38: ['Meteora38', 'meteora38']
+2025-05-17 19:59:10,749 - INFO - Found username variants for daaaaalx1: ['DAAAAALX1', 'daaaaalx1']
+2025-05-17 19:59:10,749 - INFO - Found username variants for nojokeee1: ['noJokeee1', 'nojokeee1']
+2025-05-17 19:59:10,749 - INFO - Found username variants for maydenless: ['MAYDENLESS', 'maydenless']
+2025-05-17 19:59:10,749 - INFO - Found username variants for xpoll1: ['xPoLL1', 'xpoll1']
+2025-05-17 19:59:10,749 - INFO - Found username variants for blas1905: ['BLAS1905', 'Blas1905']
+2025-05-17 19:59:10,749 - INFO - Found username variants for magician7k: ['Magician7K', 'magician7k']
+2025-05-17 19:59:10,749 - INFO - Found username variants for chili_poe: ['CHILI_POE', 'Chili_poe', 'chili_PoE']
+2025-05-17 19:59:10,749 - INFO - Found username variants for ketamame: ['Ketamame', 'ketamame']
+2025-05-17 19:59:10,749 - INFO - Found username variants for sarvar78: ['Sarvar78', 'sarvar78']
+2025-05-17 19:59:10,749 - INFO - Found username variants for rafael_1912: ['Rafael_1912', 'rafael_1912']
+2025-05-17 19:59:10,749 - INFO - Found username variants for tagman3322: ['TagMan3322', 'tagman3322']
+2025-05-17 19:59:10,750 - INFO - Found username variants for giiigo_: ['Giiigo_', 'giiigo_']
+2025-05-17 19:59:10,750 - INFO - Found username variants for metnos: ['METNOS', 'metnos']
+2025-05-17 19:59:10,750 - INFO - Found username variants for 31lamemonster: ['31LameMonster', '31lamemonster']
+2025-05-17 19:59:10,750 - INFO - Found username variants for creskg: ['CreskG', 'creskG']
+2025-05-17 19:59:10,750 - INFO - Found username variants for long_t7: ['LONG_T7', 'Long_T7']
+2025-05-17 19:59:10,750 - INFO - Found username variants for schlewel: ['schLEWEL', 'schlewel']
+2025-05-17 19:59:10,750 - INFO - Found username variants for zebekkk: ['Zebekkk', 'zebekkk']
+2025-05-17 19:59:10,750 - INFO - Found username variants for night_dukepl: ['Night_DukePL', 'night_dukepl']
+2025-05-17 19:59:10,750 - INFO - Found username variants for topdogstef: ['TopDogStef', 'topdogstef']
+2025-05-17 19:59:10,750 - INFO - Found username variants for titisoul: ['Titisoul', 'titisoul']
+2025-05-17 19:59:10,750 - INFO - Found username variants for callmar11: ['Callmar11', 'callmar11']
+2025-05-17 20:22:14,536 - INFO - Saved processed data to processed_chat_data.csv
+2025-05-17 20:22:14,536 - INFO - Chat log processing completed
