@@ -16,14 +16,15 @@ This project involves the analysis of twitch chat and twitch viewership data fro
 7. [Contact Information](#contact-information)
 
 ## Data Description
-The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 950k records with columns such as Date, User, Message, and StreamID from more than 200 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
+The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 1.5m records with columns such as Date, User, Message, and StreamID from more than 300 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
 
 ## Known limitations
 - It has __no__ chat log data when the steam was __offline__. It is also true when the stream crashed and it was offline for only few minutes.
 - __Offline__ subscriptions and subscriptions what is __not shared__ in chat are not included. That is __~15%__ of the subbsriptions.*
 - If a user has been __banned__ or their message has been __deleted__ in the live chat, they are not included.
 - If a user has been __banned__ or their message has been __deleted__ in the live chat, their previous ~15 minutes of messages in the stream are __not included__.
-- Can't handel __user name change__. If a user changed his user name it will be appear as a brand new user.
+- Can't handel __user name change__. If the user changed his user name it will be appear as a brand new user.
+- __Not include unshared subscripsions__. If the user didn't share his twitch subbscription or share it offline this data don't have it.
 
 *= _In January 2025, the partner plus point was around 505, but the chat data only shows 434, which is ~85%, so there could be a 15% difference._ 
 
