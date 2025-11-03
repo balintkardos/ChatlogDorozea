@@ -4,7 +4,7 @@
 </a>
 
 ## Introduction
-This project involves the analysis of twitch chat and twitch viewership data from [Dorozea](https://www.twitch.tv/dorozea)'s chat. I want to show what you can learn from twitch chat messages and minimal a viwership data. The project was undertaken to improve my data analysist skills and to undersand more about the comunity I love and I'm a part of.
+This project involves the analysis of twitch chat and twitch viewership data from [Dorozea](https://www.twitch.tv/dorozea)'s Twitch chat. I want to show what you can learn from twitch chat messages and minimal a viwership data. The project was undertaken to improve my data analysist skills and to undersand more about the comunity I love and I'm a part of.
 
 ## Table of Contents
 1. [Data Description](#data-description)
@@ -16,7 +16,9 @@ This project involves the analysis of twitch chat and twitch viewership data fro
 7. [Contact Information](#contact-information)
 
 ## Data Description
-The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 1.5m records with columns such as Date, User, Message, and StreamID from more than 300 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
+The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 4m records with columns such as Date, User, Message, and StreamID from more than 400 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
+
+New stream data is usualy up few hours after the str
 
 ## Known limitations
 - It has __no__ chat log data when the steam was __offline__. It is also true when the stream crashed and it was offline for only few minutes.
