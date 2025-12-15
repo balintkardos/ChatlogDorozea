@@ -1,6 +1,6 @@
 # Dorozea's Chat Data Analysis Project
 <a href="https://www.twitch.tv/dorozea">
-    <img src="https://kappa.lol/kagKh" alt="Alt text" width="200"/>
+    <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/1c2bcd05-c706-4529-9ccd-260e7ca4b6ad-profile_image-70x70.png" alt="Alt text" width="70"/>
 </a>
 
 ## Introduction
@@ -16,11 +16,12 @@ This project involves the analysis of twitch chat and twitch viewership data fro
 7. [Contact Information](#contact-information)
 
 ## Data Description
-The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date. It contains more than 4m records with columns such as Date, User, Message, and StreamID from more than 400 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
+The dataset was sourced from public Twitch and includes chat messges date and the sender's data from 2024-05-01 to last stream's date (almost always up to date). It contains more than 4m records with columns such as Date, User, Message, and StreamID from more than 400 streames. The data was cleaned to remove duplicates and missing values. If stream crashed and 2-3 separated vod was, it is merged together.
 
-New stream data is usualy up few hours after the str
+New stream data is usualy up few hours after the streams.
 
 ## Known limitations
+- It is __ONLY VODS__ chat log.
 - It has __no__ chat log data when the steam was __offline__. It is also true when the stream crashed and it was offline for only few minutes.
 - __Offline__ subscriptions and subscriptions what is __not shared__ in chat are not included. That is __~15%__ of the subbsriptions.*
 - If a user has been __banned__ or their message has been __deleted__ in the live chat, they are not included.
