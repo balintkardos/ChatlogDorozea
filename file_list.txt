@@ -542,3 +542,5 @@
 [2-6-26] yap.txt
 [2-6-26] kitchen.txt
 [2-7-26] nigth yap.txt
+[2-7-26] kitchen.txt
+[2-8-26] yap.txt
